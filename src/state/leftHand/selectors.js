@@ -1,0 +1,1 @@
+export const getLeftHand = state => state.leftHand

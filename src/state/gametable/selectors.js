@@ -1,0 +1,1 @@
+export const getGameBoard = state => state.gameBoard

@@ -1,0 +1,1 @@
+export const getEndGame = state => state.endGame

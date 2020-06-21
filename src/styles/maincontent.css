@@ -1,0 +1,21 @@
+#mainContent {
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    border:3px solid white;
+    background: rgb(145, 61, 61);
+    padding: 30px;
+    width: 90%;
+    max-width: 450px;
+    position: relative;
+    padding: 0px;
+    -webkit-box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+    box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+    text-align: center;
+  }
+  
+  #mainFooter {
+    background-color: rgb(145, 61, 61);
+    padding: 25px;
+    text-align: center;
+    -webkit-border-radius: 0 0 5px 5px;
+  }

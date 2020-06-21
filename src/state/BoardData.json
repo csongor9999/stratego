@@ -1,0 +1,123 @@
+[
+    {
+     "data":{
+        "id": 1,
+        "name": "Z"
+     },
+     "x":0,
+     "y":0,
+     "yours": 0,
+     "showPath": false
+    },
+    {
+        "data":{
+           "id": 2,
+           "name": "B"
+        },
+        "x":0,
+        "y":1,
+        "yours": 0,
+        "showPath": false
+    },
+    {
+        "data":{
+           "id": 3,
+           "name": "B"
+        },
+        "x":0,
+        "y":2,
+        "yours": 0,
+        "showPath": false
+    },
+    {
+        "data":{
+           "id": 4,
+           "name": "1",
+           "showPath": false
+        },
+        "x":0,
+        "y":3,
+        "yours": 0,
+        "showPath": false
+    },
+    {
+        "data":{
+           "id": 5,
+           "name": "2"
+        },
+        "x":0,
+        "y":4,
+        "yours": 0,
+        "showPath": false
+    },
+    {
+        "data":{
+           "id": 6,
+           "name": "2"
+        },
+        "x":0,
+        "y":5,
+        "yours": 0,
+        "showPath": false
+    },
+    {
+        "data":{
+           "id": 7,
+           "name": "3"
+        },
+        "x":1,
+        "y":0,
+        "yours": 0,
+        "showPath": false
+    },
+    {
+        "data":{
+           "id": 8,
+           "name": "3"
+        },
+        "x":1,
+        "y":1,
+        "yours": 0,
+        "showPath": false
+    },
+    {
+        "data":{
+           "id": 9,
+           "name": "4"
+        },
+        "x":1,
+        "y":2,
+        "yours": 0,
+        "showPath": false
+    },
+    {
+        "data":{
+           "id": 10,
+           "name": "6"
+        },
+        "x":1,
+        "y":3,
+        "yours": 0,
+        "showPath": false
+    },
+    {
+        "data":{
+           "id": 11,
+           "name": "8"
+        },
+        "x":1,
+        "y":4,
+        "yours": 0,
+        "showPath": false
+    },
+    {
+        "data":{
+           "id": 12,
+           "name": "10"
+        },
+        "x":1,
+        "y":5,
+        "yours": 0,
+        "showPath": false
+    }
+  ]
